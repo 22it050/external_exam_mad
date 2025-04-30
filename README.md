@@ -3,51 +3,12 @@
 A Flutter-based solution for SmartFab Industries to streamline material tracking, cost management, and inventory control.
 
 ## 📱 App Screenshots & Features
-
-### 1. Material Management & Inventory
-Add and manage materials with detailed information:
-- Material name and barcode
-- Unit cost and type
-- Current stock levels
-- Barcode integration
-
-![Add Material Interface](screenshots/image2.jpeg)
-
-### 2. Barcode Scanner Integration
-Efficiently track materials using built-in scanner:
-- Quick barcode scanning
-- Real-time material lookup
-- Instant stock verification
-- Consumption logging
-
-![Scanner Interface](screenshots/image3.jpeg)
-
-### 3. Transaction History
-Track all material movements:
-- Detailed transaction logs
-- Date-wise filtering
-- Cost tracking
-- Category-based organization
-
-![Transaction History](screenshots/image6.jpeg)
-
-### 4. Smart Date Selection
-Intuitive date picker for:
-- Transaction filtering
-- Report generation
-- Historical data access
-- Usage tracking
-
-![Date Selection](screenshots/image5.jpeg)
-
-### 5. Expense Tracking
-Monitor and manage costs:
-- Amount tracking
-- Category classification
-- Income/Expense segregation
-- Date-based organization
-
-![Expense Management](screenshots/image4.jpeg)
+(screenshots/image1.jpeg)
+(screenshots/image2.jpeg)
+(screenshots/image3.jpeg)
+(screenshots/image4.jpeg)
+(screenshots/image5.jpeg)
+(screenshots/image6.jpeg)
 
 ## 🎯 Problem Statement
 
