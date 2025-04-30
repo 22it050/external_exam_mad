@@ -1,16 +1,53 @@
-# app
+# Material Tracking & Costing App
 
-A new Flutter project.
+A Flutter-based solution for SmartFab Industries to streamline material tracking, cost management, and inventory control.
 
-## Getting Started
+![Material Tracking Header](screenshots/header.png)
 
-This project is a starting point for a Flutter application.
+## 🎯 Problem Statement
 
-A few resources to get you started if this is your first Flutter project:
+SmartFab Industries faced challenges with:
+- Manual material logging causing stock mismatches
+- Time-consuming and error-prone cost calculations
+- Lack of role-based access control
+- Delayed visibility into inventory and cost metrics
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✨ Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. Role-Based Access Control (RBAC)
+- **Admin Access:**
+  - Manage materials, processes, and users
+  - Access dashboards and analytics
+  - Generate and export reports
+- **Operator Access:**
+  - Scan materials and log consumption
+  - View assigned operations only
+
+### 2. Real-Time Material Tracking
+- QR/Barcode scanning functionality
+- Automatic material detail fetching
+- Offline caching support
+- Cloud synchronization
+
+![Scanner Interface](screenshots/scanner.png)
+
+### 3. Smart Inventory Management
+- Real-time stock updates
+- Low-stock alerts
+- Material consumption history
+- Search and filter capabilities
+
+![Inventory Management](screenshots/inventory.png)
+
+### 4. Automated Cost Calculations
+- Raw Material Cost = Unit Cost × Quantity Used
+- Manufacturing Cost = Raw Material Cost + Processing Costs
+- Final Product Price = Manufacturing Cost + Margin
+- Dynamic profit margin calculations
+
+### 5. Comprehensive Reporting
+- Cost breakdown analysis
+- Material usage trends
+- Export capabilities (PDF/CSV)
+- Real-time analytics dashboard
+
